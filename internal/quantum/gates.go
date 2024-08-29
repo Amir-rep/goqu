@@ -1,4 +1,4 @@
-package goqu
+package quantum
 
 import (
 	"goqu/internal/utils"

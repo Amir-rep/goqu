@@ -1,8 +1,8 @@
-package goqu
+package quantum
 
 import (
 	"fmt"
-	//"goqu/internal/utils"
+	//"quantum/internal/utils"
 	"math"
 	"math/cmplx"
 )
@@ -58,4 +58,3 @@ func (s *State) ProbabilityOf(b int) float64 {
 }
 
 //following functions
-
